@@ -1,0 +1,23 @@
+Squad XML Generator by Tier1 Operations (http://tier1ops.eu) v0.2
+
+This work is licenced under the Creative Commons by-nc-sa 3.0 Licence
+https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+
+
+
+*Install instructions*
+
+phpBB Setup:
+1. Go to your phpBB admin panel, go to users & groups, click on 'Custom profile fields'
+2. Create a new field, called 'arma_player_id' (single text field).
+3. Create a new field, called 'xml_remark' (textarea)
+4. Create a group for every rank, or note the group_id from your allready existing group.
+5. Go to xml.php and change the values in 'ranktogroupid' according to your stuff. 
+
+
+XML Generator Setup
+1. Copy this code onto a webserver running php-cli (naturally the server that runs your phpBB installation).
+2. Change the values of config.inc to your needs.
+3. If you want, rename the ranks provided and change the pictures.
+4. Run generateXML directly on the shell or trough a cronjob.
+5. Have Fun. :)

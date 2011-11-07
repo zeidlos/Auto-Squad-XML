@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="regular.xsl?" type="text/xsl"?>
+<squad nick="Tier1 Regular">\n  <name></name>\n  <email>contact@tier1ops.eu</email>\n  <web>http://tier1ops.eu</web>\n  <picture>regular.paa</picture>\n  <title> </title>\n   <member id="3103430" nick="BigBoss">
+      <name>BigBoss</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>&quot;We're Not Retreating; We're Advancing in a Different Direction.&quot;</remark>
+   </member>
+   <member id="" nick="Bluescuba">
+      <name>Bluescuba</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Monkeys unite and we will rule the banana trade</remark>
+   </member>
+   <member id="838465" nick="BoSSMan_DK">
+      <name>BoSSMan_DK</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Noli Me Calcare</remark>
+   </member>
+   <member id="811521" nick="BrightCandle">
+      <name>BrightCandle</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Give me an MG and I'll cut the world in half</remark>
+   </member>
+   <member id="572482" nick="Crow">
+      <name>Crow</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Bird is the word!</remark>
+   </member>
+   <member id="3105734" nick="Depth08">
+      <name>Depth08</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Bullets won't complete a mission</remark>
+   </member>
+   <member id="1256129" nick="Erniemater">
+      <name>Erniemater</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>I like turtles</remark>
+   </member>
+   <member id="1360129" nick="Nicolai">
+      <name>Nicolai</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>&quot;Don't tell mom I'm a pilot, she thinks I play piano in a whorehouse&quot;</remark>
+   </member>
+   <member id="1553350" nick="shay_gman">
+      <name>shay_gman</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>&quot;When the pin is pulled, Mr. Grenade is not our friend.&quot;</remark>
+   </member>
+   <member id="2364610" nick="Spears">
+      <name>Spears</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>History repeats itself</remark>
+   </member>
+   <member id="3113862" nick="Tweet">
+      <name>Tweet</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>TOUGH TITTY, SAID THE KITTY</remark>
+   </member>
+</squad>

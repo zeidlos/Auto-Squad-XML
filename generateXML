@@ -1,0 +1,8 @@
+#!/bin/sh
+
+php xml.php PRCT > prct.xml
+php xml.php Recruit > recruit.xml
+php xml.php Grunt > grunt.xml
+php xml.php Regular > regular.xml
+php xml.php Specialist > specialist.xml
+php xml.php Corporal > corporal.xml

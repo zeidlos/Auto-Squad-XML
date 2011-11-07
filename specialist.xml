@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="specialist.xsl?" type="text/xsl"?>
+<squad nick="Tier1 Specialist">\n  <name></name>\n  <email>contact@tier1ops.eu</email>\n  <web>http://tier1ops.eu</web>\n  <picture>specialist.paa</picture>\n  <title> </title>\n   <member id="1194690" nick="banshee">
+      <name>banshee</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Keep on truckin'!</remark>
+   </member>
+   <member id="1256193" nick="FreeFire">
+      <name>FreeFire</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>The Brave may not live forever, but the Cautious never live.</remark>
+   </member>
+   <member id="1256257" nick="Shock 'n Awe">
+      <name>Shock 'n Awe</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Train hard, fight easy... and win.
+Train easy, fight hard... and die.</remark>
+   </member>
+   <member id="1508486" nick="Tigershark">
+      <name>Tigershark</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Walk softly. Carry a big stick.</remark>
+   </member>
+</squad>

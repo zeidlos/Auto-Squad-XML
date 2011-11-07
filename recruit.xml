@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="recruit.xsl?" type="text/xsl"?>
+<squad nick="Tier1 Recruit">\n  <name></name>\n  <email>contact@tier1ops.eu</email>\n  <web>http://tier1ops.eu</web>\n  <picture>recruit.paa</picture>\n  <title> </title>\n   <member id="Aviv5341" nick="Aviv5341">
+      <name>Aviv5341</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Lets blow some shit up!</remark>
+   </member>
+   <member id="1900550" nick="DeadNoise">
+      <name>DeadNoise</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="1819841" nick="Manos_P">
+      <name>Manos_P</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>Hey-Ho-Let's Go!</remark>
+   </member>
+   <member id="rabbit" nick="Rabbit">
+      <name>Rabbit</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>The only thing necessary for the triumph of evil is for good men to do nothing.</remark>
+   </member>
+   <member id="McMurphy" nick="Randall McMurphy">
+      <name>Randall McMurphy</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="Ruin" nick="ruin">
+      <name>ruin</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="6808710" nick="SilentDawn">
+      <name>SilentDawn</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>&quot;If you can't dazzle them with brilliance, baffle them with bullshit&quot;</remark>
+   </member>
+   <member id="" nick="SlovenianDevil">
+      <name>SlovenianDevil</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="" nick="SmashK">
+      <name>SmashK</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="Tango" nick="Tango">
+      <name>Tango</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>What?</remark>
+   </member>
+   <member id="3081414" nick="VanCamp">
+      <name>VanCamp</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark></remark>
+   </member>
+   <member id="6677126" nick="ziv_ew">
+      <name>ziv_ew</name>
+      <email>contact@tier1ops.eu</email>
+      <icq>N/A</icq>
+      <remark>if god gives you lemons you find a new god</remark>
+   </member>
+</squad>
